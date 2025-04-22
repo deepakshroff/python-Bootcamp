@@ -59,7 +59,7 @@ By the end of this bootcamp, you'll have a strong foundation in Python and be re
 ### 📁 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/python-bootcamp.git
+https://github.com/deepakshroff/python-Bootcamp.git
 cd python-bootcamp
 
 
